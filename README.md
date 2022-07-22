@@ -1,6 +1,6 @@
 ### Hola a todos
 
-Actualmente en estado de Jubilado y tras toda una vida laboral en el mundo de las las Telecomunicaciones … es llegado el momento de aprender y/o mejorar en aquellas áreas que siempre me atrajeron y nunca tuve tiempo, ahora sin pretexto para no hacerlo.
+Actualmente en estado de Jubilado y tras toda una vida laboral en el mundo de las las Telecomunicaciones … es llegado el momento de aprender y/o mejorar en aquellas áreas que siempre me gustaron y nunca tuve tiempo, ahora sin pretexto para no hacerlo.
 
 En años coquetee con Basic, Ensamblador y C, “que buenos ratos con el Borland Turbo C”.
 
